@@ -1,0 +1,144 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "userId": 1,
+        "username": "vijay_dev",
+        "profilePic": "/images/hero.png"
+      },
+      "image": "/images/hero.png",
+      "caption": "Building my Instagram clone using React 🔥",
+      "likes": 245,
+      "comments": [
+        {
+          "username": "leo_codes",
+          "text": "Looks awesome bro 🔥"
+        },
+        {
+          "username": "nature_clicks",
+          "text": "Clean UI 😍"
+        }
+      ],
+      "createdAt": "2026-05-22T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "userId": 2,
+        "username": "leo_codes",
+        "profilePic": "/images/onepiece.jpg"
+      },
+      "image": "/images/onepiece.jpg",
+      "caption": "Late night coding session ☕💻",
+      "likes": 430,
+      "comments": [
+        {
+          "username": "vijay_dev",
+          "text": "React master 😎"
+        }
+      ],
+      "createdAt": "2026-05-21T08:20:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "userId": 3,
+        "username": "nature_clicks",
+        "profilePic": "/images/WhatsApp Image 2026-03-04 at 12.55.19 PM.jpeg"
+      },
+      "image": "/images/WhatsApp Image 2026-03-04 at 12.55.19 PM.jpeg",
+      "caption": "Nature always heals 🌿",
+      "likes": 1200,
+      "comments": [
+        {
+          "username": "leo_codes",
+          "text": "Amazing shot 📸"
+        },
+        {
+          "username": "vijay_dev",
+          "text": "Beautiful ❤️"
+        }
+      ],
+      "createdAt": "2026-05-20T06:15:00Z"
+    }
+  ],
+  "profile": {
+    "userId": 1,
+    "username": "vijay_dev",
+    "profilePic": "/images/hero.png"
+  },
+  "suggestions": [
+    {
+      "userId": 1,
+      "username": "vijay_dev",
+      "profilePic": "/images/hero.png",
+      "id": "lrZHFJ3uKEs"
+    },
+    {
+      "userId": 2,
+      "username": "leo_codes",
+      "profilePic": "/images/onepiece.jpg",
+      "id": "X_efngVIXiM"
+    },
+    {
+      "userId": 3,
+      "username": "nature_clicks",
+      "profilePic": "/images/WhatsApp Image 2026-03-04 at 12.55.19 PM.jpeg",
+      "id": "PMTDMMH0woQ"
+    },
+    {
+      "userId": 4,
+      "username": "nature_clicks",
+      "profilePic": "/images/WhatsApp Image 2026-03-04 at 12.55.19 PM.jpeg",
+      "id": "jJnHMsatRE0"
+    },
+    {
+      "userId": 5,
+      "username": "nature_clicks",
+      "profilePic": "/images/WhatsApp Image 2026-03-04 at 12.55.19 PM.jpeg",
+      "id": "U1PjzUs4WrI"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "user": {
+        "userId": 1,
+        "username": "vijay_dev",
+        "profilePic": "/images/hero.png"
+      },
+      "image": "/images/3kksaaoids(1).webp"
+    },
+    {
+      "id": "2",
+      "user": {
+        "userId": 2,
+        "username": "leo_codes",
+        "profilePic": "/images/onepiece.jpg"
+      },
+      "image": "/images/download.webp"
+    },
+    {
+      "id": "3",
+      "user": {
+        "userId": 3,
+        "username": "nature_clicks",
+        "profilePic": "/images/WhatsApp Image 2026-03-04 at 12.55.19 PM.jpeg"
+      },
+      "image": "/images/pictue (1).webp"
+    }
+  ],
+  "followers": [
+    {
+      "id": "CLi1QGJFgP0",
+      "username": "leo_codes",
+      "profilePic": "/images/onepiece.jpg"
+    },
+    {
+      "id": "g-_HS0kgYRs",
+      "username": "nature_clicks",
+      "profilePic": "/images/WhatsApp Image 2026-03-04 at 12.55.19 PM.jpeg"
+    }
+  ]
+}
